@@ -1,0 +1,73 @@
+# Written by MakeHuman 1.0.1
+version v1.0.1
+tags Dr. William Mills
+face head-oval 0.016000
+face head-scale-depth-less-more -0.710000
+face nose-trans-depth-forward-backward 0.096000
+face mouth-lowerlip-height-min-max 0.096000
+face r-ear-wing-out-in 0.726000
+face mouth-angles-up-down -0.662000
+face l-ear-wing-out-in 0.678000
+face chin-bones-in-out -1.000000
+face mouth-trans-forward-backward 0.080000
+face eyebrows-trans-depth-less-more -0.032000
+face nose-scale-depth-incr-decr 0.162000
+face eyebrows-angle-up-down -0.258000
+face l-eye-height1-min-max 0.404000
+face eyebrows-trans-vert-less-more -0.194000
+face mouth-trans-up-down 0.162000
+face head-scale-vert-more-less -0.064000
+face head-age-less-more -0.162000
+face chin-prognathism-less-more 0.404000
+face head-scale-horiz-less-more 0.354000
+face r-eye-height1-min-max 0.388000
+face chin-prominent-less-more -0.130000
+face mouth-scale-vert-incr-decr -0.032000
+face mouth-lowerlip-ext-up-down -0.032000
+face l-eye-height2-min-max 0.404000
+face head-angle-in-out -0.452000
+face nose-point-width-less-more 1.000000
+face mouth-scale-horiz-incr-decr -0.646000
+face head-round 0.218000
+face nose-nostril-width-min-max 0.726000
+face r-eye-height2-min-max 0.420000
+face mouth-lowerlip-middle-up-down -0.130000
+face nose-height-min-max 0.338000
+face chin-height-min-max 0.194000
+face chin-width-min-max -0.194000
+face l-eye-height3-min-max 0.436000
+face nose-trans-vert-up-down 0.354000
+face head-rectangular 0.323000
+face r-eye-height3-min-max 0.420000
+torso buttocks-volume-decr-incr -0.226000
+torso hip-scale-horiz-decr-incr 0.080000
+torso torso-scale-depth-decr-incr 0.146000
+torso torso-vshape-less-more -0.274000
+torso torso-scale-horiz-decr-incr -0.064000
+torso stomach-tone-decr-incr 1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothes jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053
+clothes tshirt02 1bba9db9-1859-424b-bbff-e3abd48f0fc5
+clothes Jacket 594935b0-4b4a-4296-a35f-3e273e9b8e7a
+clothesHideFaces False
+gendered breast-dist-min-max -0.146000
+gendered breast-trans-vert-down-up 0.096000
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.500000
+macro Gender 1.000000
+macro Age 0.492000
+macro Height 0.565000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.685000
+macro BodyProportions 1.000000
+skinMaterial skins/default.mhmat
+material jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053 clothes/jeans01/jeans01_basic.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/green.mhmat
+subdivide False
